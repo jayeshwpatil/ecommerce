@@ -1,0 +1,118 @@
+[
+  {
+    "id": 111,
+    "name": "Men Regular Fit Solid Spread Collar Casual Shirt",
+    "description": "This shirts is one of the top selling product from premium quality shirts collection exclusively manufactured by EVIQE brand. Long lasting fabric and trendy colors make it evergreen for casual and formal usage. ",
+    "imgSrc": "https://m.media-amazon.com/images/I/71tDhRkB3kL._AC_SY879_.jpg",
+    "salePrice": 400,
+    "price": 450,
+    "catagory": "Men",
+    "attribute": "Shirt"
+  },
+  {
+    "id": 112,
+    "name": "Men's Color Block Letter Print Short Sleeve T-Shirt",
+    "description": "Casual summer colorblock graphic print t shirts for men Fabric: Fabric has some stretch, soft and comfortable Features: Round neck, short sleeve, letter print, colorblock, pullovers, fashionable",
+    "imgSrc": "https://m.media-amazon.com/images/I/610-nV781bL._AC_SY879_.jpg",
+    "price": 970,
+    "catagory": "Men",
+    "attribute": "T-Shirt"
+  },
+  {
+    "id": 113,
+    "name": "Mens Hooded Sweatshirt Casual Long Sleeve ",
+    "description": "This mens hoodies pullover is made from soft and breathable fabric, delivering extraordinary comfort and warmth. Mens hoodie sweatshirt designed in waffle pattern, solid color, long sleeves,elastic ribbed cuffs,pullover hooded with adjustable drawstring, simple and stylish",
+    "imgSrc": "https://m.media-amazon.com/images/I/81AqCO246ML._AC_SY879_.jpg",
+    "salePrice": 101,
+    "price": 120,
+    "catagory": "Men",
+    "attribute": "Sweatshirt"
+  },
+  {
+    "id": 114,
+    "name": "FUNDAY FASHION Women Cotton Half Sleeve Printed Oversized Relaxed Fit T-Shirts/Girls (Pack Of 2)",
+    "description": "Design and style: Trending Color combination design gives an extra ordinary casual look Pairing: This t-shirt is easy to be paired with your Jeans, skinny leggings, jeggings, shorts, etc ATTRACTIVE DESIGN:- A unique design & stitching enhances subtle styling",
+    "imgSrc": "https://m.media-amazon.com/images/I/61TJ+FEjuNL._AC_UL800_FMwebp_QL65_.jpg",
+    "price": 670,
+    "catagory": "Women",
+    "attribute": "T-Shirt"
+  },
+
+  {
+    "id": 115,
+    "name": "J.VER Men's Casual Long Sleeve Stretch Dress Shirt",
+    "description": "High-Quality Fabric: 62% cotton + 35% polyester fiber + 3% spandex.The long sleeve shirt is made of stretch fabric,makes you move body easier;soft and comfortable with good breathability",
+    "imgSrc": "https://m.media-amazon.com/images/I/71ZCqEa2vBL._AC_SX679_.jpg",
+    "price": 790,
+    "catagory": "Men",
+    "attribute": "Shirt"
+  },
+  {
+    "id": 116,
+    "name": "Shirts Short Sleeve Casual Button Down Tropical Beach Shirt",
+    "description": "This hawaiian shirt made of soft and comfortable fabric, keeping you a skin friendly, breathable, lightweight and cool feeling.",
+    "imgSrc": "https://m.media-amazon.com/images/I/81UewnSfGrL._AC_SY879_.jpg",
+    "salePrice": 650,
+    "price": 890,
+    "catagory": "Men",
+    "attribute": "Shirt"
+  },
+  {
+    "id": 117,
+    "name": "Ninth RAY Men's Vintage Aztec Inca Digital Printed T-Shirts - Slim Fit Lycra Dry Fit Material Summer Round-Neck T Shirts Short Sleeve Tees for Men",
+    "description": "Men's Slim Fit Shirt with Unusual Half Sleeves Men's Half Sleeve Shirt with a High Collar Design for Men's Embroidery Slim Fit Half Sleeve Casual Dress Shirts with Mandarin Collar and Button-Up Sleeves.",
+    "imgSrc": "https://c.media-amazon.com/images/I/51GkcfM0myL.jpg",
+    "salePrice": 410,
+    "price": 580,
+    "catagory": "Men",
+    "attribute": "T-Shirt"
+  },
+  {
+    "id": 118,
+    "name": "Myx Loose Fit T-Shirt/ Tops For Women",
+    "description": "Made in soft natural fabric that is breathable and comfortable to the skin for your daily comfort Round Neck, Loose fit t-shirt with short sleeves Designed in fun colors and prints for a trendy look Complete your look with a pair of flat sandals, jeans or palazzos with funky earrings.",
+    "imgSrc": "https://m.media-amazon.com/images/I/51HAV+v4VkL._AC_UL800_FMwebp_QL65_.jpg",
+    "salePrice": 320,
+    "price": 449,
+    "catagory": "Women",
+    "attribute": "T-Shirt"
+  },
+  {
+    "id": 119,
+    "name": "Monte Carlo Womens Solid Hooded Neck Full Sleeve Casual Sweatshirt",
+    "description": "Rockit from House of Monte Carlo Womens Pink Solid Hooded Neck Full Sleeve Casual Sweatshirt. Made from Polyester Blend fabric.",
+    "imgSrc": "https://m.media-amazon.com/images/I/61vRFB4fi4L._SX679_.jpg",
+    "salePrice": 700,
+    "price": 820,
+    "catagory": "Women",
+    "attribute": "Sweatshirt"
+  },
+  {
+    "id": 120,
+    "name": "INKAST Men's Regular Fit T-Shirt",
+    "description": "The brand offers stylish, premium casualwear for men through a wide range of  polos, tees, trousers, jackets and more. The products are designed to meet the very best quality benchmarks and are stitched to perfection – giving you impeccable comfort and fit.",
+    "imgSrc": "https://c.media-amazon.com/images/I/71ShjJelA+L._SY879_.jpg",
+    "salePrice": 500,
+    "price": 690,
+    "catagory": "Men",
+    "attribute": "T-Shirt"
+  },
+  {
+    "id": 121,
+    "name": "Wrangler Authentics Men's Long Sleeve Quilted Lined Flannel Shirt Jacket",
+    "description": "Constructed with comfort in mind, this long sleeve quilted lined flannel shirt is a wardrobe essential for those cold Winter nights HEAVYWEIGHT MATERIALS: Built with button cuffs and quilted polyester padding for more durability and added warmth.",
+    "imgSrc": "https://m.media-amazon.com/images/I/61J2YWfGrXL._AC_SX679_.jpg",
+    "price": 90,
+    "catagory": "Men",
+    "attribute": "Jacket"
+  },
+  {
+    "id": 122,
+    "name": "Symbol Men's Cotton Rich Polo T Shirt | Collar T-shirt | Half Sleeves | Plain-Regular Fit",
+    "description": "Indulge in comfort and timeless styles with Symbol, an Amazon brand that offers a wide range of wardrobe essentials for your family",
+    "imgSrc": "https://c.media-amazon.com/images/I/91QwF2-Ry6L._SY879_.jpg",
+    "price": 990,
+    "catagory": "Men",
+    "attribute": "T-Shirt"
+  }
+]
