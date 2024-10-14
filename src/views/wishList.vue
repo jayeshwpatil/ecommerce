@@ -1,7 +1,7 @@
 <script setup>
 import noProductFound from '@/components/noProductFound.vue';
 import { ref, computed } from 'vue'
-const emit = defineEmits(["wishlistProductRemove"])
+const emit = defineEmits(["wishlistProductRemove", "addtoCartList"])
 
 const props = defineProps(["allProductData"])
 const showingwishlist = computed(() => {
@@ -10,6 +10,9 @@ const showingwishlist = computed(() => {
 
 const removeFromList = (dataId) => {
   emit("wishlistProductRemove", dataId)
+}
+const addtoCart = (dataId) => {
+  emit("addtoCartList", dataId)
 }
 
 
@@ -61,10 +64,10 @@ const removeFromList = (dataId) => {
                   </div>
                   <div class="my-3 d-flex justify-content-between ">
                     <div>
-                      <a href="" title="Add to Cart" class="fw-bold btn btn-sm btn-success ">
+                      <a href="" title="Add to Cart" class="fw-bold btn btn-sm btn-success "
+                        @click.prevent="addtoCart(item.id)">
                         <i class="bi bi-cart-plus"></i> Add to Cart</a>
-                      <a href="" title="Buy it Now" class="fw-bold btn btn-sm btn-success mx-1 ">
-                        <i class="bi bi-bag-check-fill"></i> Buy it Now</a>
+
                     </div>
                     <div>
                       <a title="Add to Wish List " class="fw-bold btn btn-danger text-white "
