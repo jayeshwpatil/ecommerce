@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,a as e,d as c}from"./index-3CKQFFBe.js";const a={},n={class:"col-sm-12"},r=e("div",{class:"alert alert-danger text-center",role:"alert"},[e("i",{class:"bi bi-exclamation-triangle-fill"}),e("span",{class:"fw-bold"}," No products found"),c(". ")],-1),l=[r];function d(_,i){return s(),t("div",n,l)}const m=o(a,[["render",d]]);export{m as n};
